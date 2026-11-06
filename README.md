@@ -7,7 +7,7 @@ A team contribution to a property-management SaaS with web and mobile interfaces
 **My role:** Full-Stack Developer · Lumia Tech internship · October 2025–January 2026  
 **Author:** [Nizar Gassab](https://github.com/nizargassab)
 
-[View project](https://www.upwork.com/freelancers/~01e66249ec727ea66f?p=2016564516317986816) · [Portfolio case study](https://nizar-gassab-portfolio.vercel.app/projets/syndexpress/) · [LinkedIn](https://www.linkedin.com/in/nizar-gassab-b872b5244/)
+[View project](https://nizar-gassab-portfolio.vercel.app/projets/syndexpress/) · [Portfolio case study](https://nizar-gassab-portfolio.vercel.app/projets/syndexpress/) · [LinkedIn](https://www.linkedin.com/in/nizar-gassab-b872b5244/)
 
 ## What I worked on
 
@@ -37,7 +37,7 @@ Worked with JUnit and Postman tests, code reviews and continuous integration in 
 
 ## Explore further
 
-- [Public project reference](https://www.upwork.com/freelancers/~01e66249ec727ea66f?p=2016564516317986816)
+- [Public project reference](https://nizar-gassab-portfolio.vercel.app/projets/syndexpress/)
 - [Project details](https://nizar-gassab-portfolio.vercel.app/projets/syndexpress/)
 - [All selected work](https://nizar-gassab-portfolio.vercel.app/#projets)
 
