@@ -1,5 +1,3 @@
-![SyndExpress](assets/cover.svg)
-
 # SyndExpress
 
 A team contribution to a property-management SaaS with web and mobile interfaces. The implementation organized users, charges and service requests into distinct business services.
